@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-empty{
+    background-color: #616161;
+}
+
+.bg-gallery-btn{
+    background-color: #41474C;
+    box-shadow:  -4px -4px 6px rgba(255, 255, 255, 0.3), 4px 4px 10px rgba(0, 0, 0, 0.25);  
+}
+
+.gallery-nav-btn{
+    background-color: #2A2F32;
+    color: gray;
+    box-shadow: 
+    -4px -4px 6px rgba(255, 255, 255, 0.3),
+    4px 4px 10px rgba(0, 0, 0, 0.25);    
+   
+}
